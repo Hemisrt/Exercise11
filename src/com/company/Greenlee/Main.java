@@ -20,6 +20,7 @@ public class Main {
         pressureSensor.update();
         temperatureSensor.update();
         humiditySensor.update();
+        System.out.println("Main: getting new updated data from sensors");
         pressureSensor.update();
         temperatureSensor.update();
         humiditySensor.update();
