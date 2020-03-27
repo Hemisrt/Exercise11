@@ -1,7 +1,9 @@
 package com.company.Greenlee;
 
 public class Main {
-
+    // Trenton Greenlee
+    // 3/23/2020
+    // Exercise 11
     public static void main(String[] args) {
         System.out.println("Main: creating objects");
         WeatherStation localWeatherStation = new WeatherStation();
